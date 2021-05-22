@@ -12,7 +12,7 @@
 - $ pkg install git
 - $ pip2 install requests
 - $ pip2 install mechanize
-- $ git clone https://github.com/Dapunta/oldid
+- $ git clone https://github.com/YosuaRahmat/oldid
 
 ### 》Run Script
 - $ cd oldid
